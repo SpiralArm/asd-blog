@@ -1,6 +1,6 @@
 ---
-blog_root: /blog_posts
-site_title: My Blog
+blog_root: /posts
+site_title: Add Share Do Blog
 
 ---
 
